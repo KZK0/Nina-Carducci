@@ -37,7 +37,7 @@ body {
 
 .nav a {
 	text-decoration: none;
-	color: #000
+	color: black
 }
 
 .instagram-link img {
@@ -111,13 +111,13 @@ body {
 
 .nav-pills .nav-link.active,
 .nav-pills .show>.nav-link {
-	color: #fff;
+	color: rgb(0, 0, 0);
 	background-color: #BEB45A;
 	border-radius: 0;
 }
 
 .nav-pills .nav-link {
-	color: #000
+	color: black
 }
 
 .item-column {
