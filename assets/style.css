@@ -114,10 +114,14 @@ body {
 	color: rgb(0, 0, 0);
 	background-color: #BEB45A;
 	border-radius: 0;
+	user-select: none;
+	cursor: pointer;
 }
 
 .nav-pills .nav-link {
-	color: black
+	color: black;
+	user-select: none;
+	cursor: pointer;
 }
 
 .item-column {
